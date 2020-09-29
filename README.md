@@ -1,4 +1,4 @@
-# Les fondamentaux du JavaScript
+# Classes
 
 # A propos de ces exercises
 
