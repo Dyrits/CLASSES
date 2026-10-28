@@ -1,19 +1,19 @@
 # Classes
 
-# A propos de ces exercises
+PHP object-oriented programming exercises, for the ENI course "Le développement Web côté serveur - Backend - avec PHP et Symfony - 1" (Module 3 - La Programmation Orientée Objet en PHP).
 
-### Cursus
-ENI | LE DÉVELOPPEMENT WEB COTE SERVEUR - BACKEND - AVEC PHP ET SYMFONY - 1  
-TRAVAUX PRATIQUE / EXERCICES : Module 3 : La Programmation Orientée Objet en PHP
+## About The Project
 
-### [Description des exercices par l'ENI](https://github.com/Dyrits/CLASSES/blob/master/Module%2003%20-%20Enonc%C3%A9%20TP%2001%20-%20Classes.pdf)
+The practical exercises (travaux pratiques) of the module. The assignment (in French) is documented here: [Description des exercices par l'ENI](https://github.com/Dyrits/CLASSES/blob/master/Module%2003%20-%20Enonc%C3%A9%20TP%2001%20-%20Classes.pdf).
 
-### Technologies
+### Built With
+
 - PHP
 
-### Statut
-Completed
+## Status
 
-#### Date de la dernière mise à jour
-27/09/2020  
-(README | 29/09/2020)
+Completed.
+
+## License
+
+No license file is present.
